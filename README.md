@@ -13,7 +13,7 @@ you have nix files. luaflake counts their lines and assigns you a cortisol level
 
 ## install
 ```bash
-git clone https://github.com/ivorytechd/luaflake
+git clone https://github.com/ivorybsd/luaflake
 cd luaflake
 sudo sh install.sh
 ```
